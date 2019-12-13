@@ -705,7 +705,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #index .boxing {
-  max-width: 480px;
+  max-width: 480px;  
   position: relative;
   overflow: hidden;
   margin-bottom: 20px;
